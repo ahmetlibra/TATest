@@ -63,6 +63,12 @@ namespace TKApp.Data.Contexts
             return await base.SaveChangesAsync(cancellationToken);
         }
 
+        // Explicit implementation of IUnitOfWork.SaveChangesAsync()
+        Task<int> IUnitOfWork.SaveChangesAsync()
+        {
+            return SaveChangesAsync(CancellationToken.None);
+        }
+
         private void SetAuditInfo()
         {
             var entries = ChangeTracker.Entries()
