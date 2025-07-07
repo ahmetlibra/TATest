@@ -1,0 +1,6 @@
+@TKApp.API_HostAddress = http://localhost:5181
+
+GET {{TKApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
