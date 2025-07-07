@@ -6,7 +6,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using TKApp.Core.Interfaces;
 using TKApp.Core.Models;
+using TKApp.Data.Repositories;
 using TKApp.Entities.Models;
+using TKApp.Shared.Interfaces;
 
 namespace TKApp.Data.Contexts
 {
@@ -95,5 +97,7 @@ namespace TKApp.Data.Contexts
         {
             return new Repository<T>(this);
         }
+
+     
     }
 }
