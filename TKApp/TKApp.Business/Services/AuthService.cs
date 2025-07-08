@@ -4,6 +4,7 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using TKApp.Business.DTOs;
@@ -11,6 +12,7 @@ using TKApp.Business.Interfaces;
 using TKApp.Core.Enums;
 using TKApp.Data.Contexts;
 using TKApp.Entities.Models;
+using TKApp.Shared.Interfaces;
 
 namespace TKApp.Business.Services
 {

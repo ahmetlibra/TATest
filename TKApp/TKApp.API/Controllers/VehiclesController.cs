@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -150,7 +151,7 @@ namespace TKApp.API.Controllers
                     return Forbid();
                 }
 
-                await _vehicleService.UpdateLocationAsync(id, location.Latitude, location.Longitude);
+                await _vehicleService.UpdateLocationAsync(id, Convert.ToDecimal(location.Latitude), Convert.ToDecimal(location.Longitude));
                 return Ok();
             }
             catch (Exception ex)

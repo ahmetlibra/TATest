@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\TestArea\\dotnettest\\TKApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6375B03-DD96-4B5F-AD7E-EB4D4FBE0193}|TKApp.Data\\TKApp.Data.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6375B03-DD96-4B5F-AD7E-EB4D4FBE0193}|TKApp.Data\\TKApp.Data.csproj|solutionrelative:tkapp.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|solutionrelative:tkapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FD615D-4A31-4FEA-B635-91B3FBEDB942}|TKApp.Tests\\TKApp.Tests.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FD615D-4A31-4FEA-B635-91B3FBEDB942}|TKApp.Tests\\TKApp.Tests.csproj|solutionrelative:tkapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestArea\\dotnettest\\TKApp\\TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.api\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|solutionrelative:tkapp.api\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|solutionrelative:tkapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|solutionrelative:tkapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466ADBF-27A9-4EFC-A310-5DCA0B3589D4}|TKApp.API\\TKApp.API.csproj|solutionrelative:tkapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.business\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|solutionrelative:tkapp.business\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.business\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|solutionrelative:tkapp.business\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|solutionrelative:tkapp.business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|d:\\testarea\\dotnettest\\tkapp\\tkapp.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F01A327-3B2A-4240-9168-44CF5482C35A}|TKApp.Business\\TKApp.Business.csproj|solutionrelative:tkapp.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 168,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,16 +78,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Data\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TKApp.Data\\Contexts\\AppDbContext.cs",
-              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Data\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "TKApp.Data\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawA4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TKApp.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TKApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T15:10:50.581Z",
+              "WhenOpened": "2025-07-08T12:34:06.61Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TKApp.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "TKApp.Tests\\obj\\Debug\\net8.0\\TKApp.Tests.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:33:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "TKApp.API\\Program.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Program.cs",
+              "RelativeToolTip": "TKApp.API\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAArwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:32:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "TKApp.API\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "TKApp.API\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAIA5wJkAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:32:32.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "TKApp.API\\Controllers\\LocationsController.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "TKApp.API\\Controllers\\LocationsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwGkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:31:21.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TKApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TKApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAApwFMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:31:13.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TKApp.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TKApp.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAuwCcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:30:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "TKApp.Business\\Services\\VehicleService.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\VehicleService.cs",
+              "RelativeToolTip": "TKApp.Business\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAEwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:29:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TKApp.Business\\Services\\UserService.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\UserService.cs",
+              "RelativeToolTip": "TKApp.Business\\Services\\UserService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAApwHEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:28:08.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "TKApp.Business\\Services\\LocationService.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\LocationService.cs",
+              "RelativeToolTip": "TKApp.Business\\Services\\LocationService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:26:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TKApp.Business\\Services\\AuthService.cs",
+              "ToolTip": "D:\\TestArea\\dotnettest\\TKApp\\TKApp.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "TKApp.Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:20:33.236Z"
             }
           ]
         }

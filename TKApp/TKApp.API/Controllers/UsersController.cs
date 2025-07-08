@@ -1,11 +1,13 @@
 using System;
 using System.Collections.Generic;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TKApp.Business.DTOs;
 using TKApp.Business.Interfaces;
 using TKApp.Core.Enums;
+using TKApp.Shared.Interfaces;
 
 namespace TKApp.API.Controllers
 {

@@ -4,22 +4,27 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using TKApp.API.Middleware;
+using TKApp.Business.Interfaces;
 using TKApp.Business.Mappings;
 using TKApp.Business.Services;
+using TKApp.Core.Enums;
 using TKApp.Core.Interfaces;
 using TKApp.Data.Contexts;
 using TKApp.Data.Repositories;
+using TKApp.Shared.Interfaces;
 using TKApp.Shared.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddControllers();
 
 // Configure database context
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Register services
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IUnitOfWork, AppDbContext>();
 builder.Services.AddScoped<ITenantProvider, TenantProvider>();

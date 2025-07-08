@@ -15,6 +15,8 @@ using TKApp.Core.Enums;
 using TKApp.Core.Interfaces;
 using TKApp.Data.Contexts;
 using TKApp.Entities.Models;
+using TKApp.Shared.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace TKApp.Business.Services
 {
@@ -109,7 +111,7 @@ namespace TKApp.Business.Services
                 IsLongDistanceAllowed = request.IsLongDistanceAllowed,
                 Status = Status.Active,
                 CreatedAt = DateTime.UtcNow,
-                TenantId = _tenantProvider.GetTenantId()
+                TenantId = (int)_tenantProvider.GetTenantId()
             };
 
             _context.Users.Add(user);

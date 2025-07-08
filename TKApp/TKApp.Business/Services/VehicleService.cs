@@ -10,6 +10,7 @@ using TKApp.Core.Enums;
 using TKApp.Core.Interfaces;
 using TKApp.Data.Contexts;
 using TKApp.Entities.Models;
+using TKApp.Shared.Interfaces;
 
 namespace TKApp.Business.Services
 {

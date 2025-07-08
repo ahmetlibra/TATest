@@ -9,6 +9,7 @@ using TKApp.Core.Models;
 using TKApp.Data.Repositories;
 using TKApp.Entities.Models;
 using TKApp.Shared.Interfaces;
+using TKApp.Entities.Models; // Added this line
 
 namespace TKApp.Data.Contexts
 {
@@ -29,6 +30,7 @@ namespace TKApp.Data.Contexts
         public DbSet<SystemEnvironment> SystemEnvironments { get; set; }
         public DbSet<Tenant> Tenants { get; set; }
         public DbSet<UserClaim> UserClaims { get; set; }
+        public DbSet<LocationHistory> LocationHistories { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
